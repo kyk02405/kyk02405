@@ -4,7 +4,7 @@
 
 ## Experience & Education
 - 2026.04 ~ Present : Seoul Economic Daily
-  - Cloud Engineer
+  - Cloud Engineer Intern
 - 2025.09 ~ 2026.03 : Douzone Bizon Cloud DX Academy
   - Completed the cloud infrastructure build and operations course
 
