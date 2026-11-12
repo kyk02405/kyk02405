@@ -1,4 +1,4 @@
-[kyk02405@gmail.com](mailto:kyk02405@gmail.com) · [Blog](https://velog.io/@kyk02405)
+[kyk02405@gmail.com](mailto:kyk02405@gmail.com) · [velog](https://velog.io/@kyk02405)
 
 ## Certifications
 
