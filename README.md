@@ -13,7 +13,7 @@
 
 | Date | Award | Issuer |
 |---|---|---|
-| 2026.11 | Excellence Award, Fact-check category, 2026 News Big Data Hackathon, team project "Yaksok" (2026 뉴스빅데이터 해커톤 팩트체크 부문 우수상, 팀 프로젝트 「약속.」) | Korea Press Foundation, Chairman's Award (한국언론진흥재단 이사장상) |
+| 2026.11 | Excellence Award, Fact-check category, 2026 News Big Data Hackathon, team project "Yaksok" (2026 뉴스빅데이터 해커톤 팩트체크 부문 우수상, 팀 프로젝트 [「약속.」](https://3-37-172-76.sslip.io/#/) | Korea Press Foundation, Chairman's Award (한국언론진흥재단 이사장상) |
 | 2026.10 | Excellence Award, AWS Newsroom Jumpstart, for [Korea Company Atlas](https://en.sedaily.com/atlas/) | Amazon Web Services Korea |
 | 2026.10 | 2026 Advertisers' Choice Feature Reporting Award of the Year, Online category, for [Korea Company Atlas](https://en.sedaily.com/atlas/) (2026 광고주가 뽑은 올해의 기획보도상 온라인 부문) | Korea Advertisers Association |
 | 2026.06 | 2nd place, GitHub Copilot & Microsoft Agent Framework Hackathon | Microsoft Korea |
